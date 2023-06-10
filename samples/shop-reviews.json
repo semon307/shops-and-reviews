@@ -1,0 +1,645 @@
+{
+  "response": {
+    "code": 200,
+    "data": {
+      "shop": {
+        "tsId": "X1D5C64C8CEB9FFCB2A663B6D198614EE",
+        "url": "www.hemdenbox.de",
+        "name": "HemdenBox.de",
+        "languageISO2": "de",
+        "targetMarketISO3": "DEU",
+        "reviews": [
+          {
+            "changeDate": "2020-07-13T14:04:46+02:00",
+            "confirmationDate": "2020-07-13T14:04:46+02:00",
+            "creationDate": "2020-07-13T14:04:46+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "3f16f9e087704ae5ac53e53a9e8016ab",
+            "reviewer": {
+              "profile": {
+                "firstname": "Guido",
+                "lastname": "M.",
+                "city": "Dorfen",
+                "url": "https://www.trustedshops.com/user/de_DE/92b82c28f58aab43d1dbe10aba253f28"
+              }
+            },
+            "orderDate": "2020-07-06T08:56:46+02:00"
+          },
+          {
+            "changeDate": "2020-07-13T13:39:26+02:00",
+            "comment": "Schnell und zuverlässig",
+            "confirmationDate": "2020-07-13T13:39:26+02:00",
+            "creationDate": "2020-07-13T13:39:26+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "ddc6bdb70bed43e7b9daf88b6f3fccb8",
+            "reviewer": {
+              "profile": {
+                "firstname": "Klaus",
+                "lastname": "P.",
+                "city": "Hanau",
+                "url": "https://www.trustedshops.com/user/de_DE/453bd0b75fa158628f96f921484b43b6"
+              }
+            },
+            "orderDate": "2020-07-06T09:10:32+02:00"
+          },
+          {
+            "changeDate": "2020-07-13T11:18:31+02:00",
+            "confirmationDate": "2020-07-13T11:18:31+02:00",
+            "creationDate": "2020-07-13T11:18:31+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "0194b1546b784f39989020157004d18c",
+            "orderDate": "2020-07-06T06:49:39+02:00"
+          },
+          {
+            "changeDate": "2020-07-13T11:10:09+02:00",
+            "comment": "schnelle Lieferung",
+            "confirmationDate": "2020-07-13T11:10:09+02:00",
+            "creationDate": "2020-07-13T11:10:09+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "03a0fa41b3f549a8ae12592265ff4400",
+            "reviewer": {
+              "profile": {
+                "firstname": "Peter",
+                "lastname": "N.",
+                "city": "Bochum",
+                "url": "https://www.trustedshops.com/user/de_DE/7e92ee268aaf539398376e770405eedc"
+              }
+            },
+            "orderDate": "2020-07-06T13:48:30+02:00"
+          },
+          {
+            "changeDate": "2020-07-12T13:22:57+02:00",
+            "confirmationDate": "2020-07-12T13:22:57+02:00",
+            "creationDate": "2020-07-12T13:22:57+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "44d7d31ff0a749fbaedf045693f541b4",
+            "reviewer": {
+              "profile": {
+                "firstname": "Yelena",
+                "lastname": "S.",
+                "city": "Berlin",
+                "url": "https://www.trustedshops.com/user/de_DE/b0f909f087cbec840ec31c663b6208b5",
+                "avatar60URL": "https://avatar.trustedshops.com/avatar/60/b0f/b0f909f087cbec840ec31c663b6208b5.png"
+              }
+            },
+            "orderDate": "2020-07-05T18:13:25+02:00"
+          },
+          {
+            "changeDate": "2020-07-12T11:37:05+02:00",
+            "comment": "Lassen sich super tragen, super Qualität, schnelle Lieferung, immer wieder",
+            "confirmationDate": "2020-07-12T11:37:05+02:00",
+            "creationDate": "2020-07-12T11:37:05+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "86c3a489f429494eafa83594ca4b8e30",
+            "orderDate": "2020-07-05T15:31:18+02:00"
+          },
+          {
+            "changeDate": "2020-07-12T11:14:40+02:00",
+            "confirmationDate": "2020-07-12T11:14:40+02:00",
+            "creationDate": "2020-07-12T11:14:40+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "616cbf9620994e75817139e9ced18ffa",
+            "orderDate": "2020-07-05T14:56:49+02:00"
+          },
+          {
+            "changeDate": "2020-07-12T10:56:50+02:00",
+            "comment": "prompte lieferung, guter service und gute qualität",
+            "confirmationDate": "2020-07-12T10:56:50+02:00",
+            "creationDate": "2020-07-12T10:56:50+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "cdf6b91f4aa040e9815581f7a52e88f2",
+            "reviewer": {
+              "profile": {
+                "firstname": "Werner",
+                "lastname": "B.",
+                "city": "Nuernberg",
+                "url": "https://www.trustedshops.com/user/de_DE/c4a9877103d81ebddc1afa46cf5d9409"
+              }
+            },
+            "orderDate": "2020-07-05T17:34:37+02:00"
+          },
+          {
+            "changeDate": "2020-07-12T10:53:20+02:00",
+            "comment": "schnelle Zusendung, gut und sicher verpackt",
+            "confirmationDate": "2020-07-12T10:53:20+02:00",
+            "creationDate": "2020-07-12T10:53:20+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "8f367c399068440280a18bb9c46bd3c9",
+            "orderDate": "2020-07-05T15:12:25+02:00"
+          },
+          {
+            "changeDate": "2020-07-09T13:27:04+02:00",
+            "confirmationDate": "2020-07-09T13:27:04+02:00",
+            "creationDate": "2020-07-09T13:27:04+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "980d46c5b95c44ef9034f9bcfe787ec8",
+            "reviewer": {
+              "profile": {
+                "firstname": "Klaus",
+                "lastname": "T.",
+                "city": "Nürnberg",
+                "url": "https://www.trustedshops.com/user/de_DE/5f01b34f09d40194d96c038477cdd796"
+              }
+            },
+            "orderDate": "2020-07-02T15:58:30+02:00"
+          },
+          {
+            "changeDate": "2020-07-09T12:14:49+02:00",
+            "comment": "Wunderbare Hemden mit exklusiver Bestickung! Schnelle Lieferung!",
+            "confirmationDate": "2020-07-09T12:14:49+02:00",
+            "creationDate": "2020-07-09T12:14:49+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "53526b4557614203b62e202ad48fd1e2",
+            "reviewer": {
+              "profile": {
+                "firstname": "Bruno",
+                "lastname": "H.",
+                "city": "Vettelschoß",
+                "url": "https://www.trustedshops.com/user/de_DE/9b928475830f911f1a86e17c869a5d8f"
+              }
+            },
+            "orderDate": "2020-07-02T18:07:19+02:00"
+          },
+          {
+            "changeDate": "2020-07-08T23:07:50+02:00",
+            "comment": "Ich bin vollauf zufrieden: Schnelle Lieferung, sichere Verpackung, gute Qualität, Farben wie abgebildet.",
+            "confirmationDate": "2020-07-08T23:07:50+02:00",
+            "creationDate": "2020-07-08T23:07:50+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "876c0c3bff504849ab6d8eb889f2acfe",
+            "orderDate": "2020-07-01T10:31:36+02:00"
+          },
+          {
+            "changeDate": "2020-07-08T17:19:25+02:00",
+            "comment": "1",
+            "confirmationDate": "2020-07-08T17:19:25+02:00",
+            "creationDate": "2020-07-08T17:19:25+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "a16e5cb019754ea3a00f771cef8defc1",
+            "orderDate": "2020-07-01T15:53:04+02:00"
+          },
+          {
+            "changeDate": "2020-07-08T15:42:52+02:00",
+            "confirmationDate": "2020-07-08T15:42:52+02:00",
+            "creationDate": "2020-07-08T15:42:52+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "7ce0ab58f8124991a232f98a76310ec6",
+            "orderDate": "2020-07-01T10:21:58+02:00"
+          },
+          {
+            "changeDate": "2020-07-08T14:34:18+02:00",
+            "confirmationDate": "2020-07-08T14:34:18+02:00",
+            "creationDate": "2020-07-08T14:34:18+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "98af6eb4fa3c472bab94fc752f39b73f",
+            "reviewer": {
+              "profile": {
+                "firstname": "Sabine",
+                "lastname": "J.",
+                "city": "Düren",
+                "url": "https://www.trustedshops.com/user/de_DE/d53e20620058a13284dfe9089235ec2e"
+              }
+            },
+            "orderDate": "2020-07-01T16:57:44+02:00"
+          },
+          {
+            "changeDate": "2020-07-08T12:11:48+02:00",
+            "confirmationDate": "2020-07-08T12:11:48+02:00",
+            "creationDate": "2020-07-08T12:11:48+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "7f8faeb8288e4095aa57068861745d86",
+            "orderDate": "2020-07-01T20:55:31+02:00"
+          },
+          {
+            "changeDate": "2020-07-08T11:31:11+02:00",
+            "comment": "Gute Hemdenqualität, Lieferservice sehr schnell",
+            "confirmationDate": "2020-07-08T11:31:11+02:00",
+            "creationDate": "2020-07-08T11:31:11+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "430fa4b00b0d47219e486ab50b1bda11",
+            "orderDate": "2020-07-01T21:07:26+02:00"
+          },
+          {
+            "changeDate": "2020-07-07T16:17:52+02:00",
+            "comment": "Klasse Service, Top Preise, Sehr Empfehlenswert!",
+            "confirmationDate": "2020-07-07T16:17:52+02:00",
+            "creationDate": "2020-07-07T16:17:52+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "46b2008c3c7e40fcb6f56f570b12eb27",
+            "orderDate": "2020-06-30T08:54:32+02:00"
+          },
+          {
+            "changeDate": "2020-07-07T12:54:58+02:00",
+            "comment": "Superschneller Service!!!",
+            "confirmationDate": "2020-07-07T12:54:58+02:00",
+            "creationDate": "2020-07-07T12:54:58+02:00",
+            "criteria": [
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "GOODS"
+              },
+              {
+                "mark": "5",
+                "markDescription": "EXCELLENT",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "5.00",
+            "markDescription": "EXCELLENT",
+            "UID": "aa80cfcd502d49a182dadcb6e278b9fe",
+            "reviewer": {
+              "profile": {
+                "firstname": "Klaus",
+                "lastname": "B.",
+                "city": "Aichwald",
+                "url": "https://www.trustedshops.com/user/de_DE/2b85c00500ecb804eb116fdfa75da8da"
+              }
+            },
+            "orderDate": "2020-06-30T13:03:54+02:00"
+          },
+          {
+            "changeDate": "2020-07-06T22:55:24+02:00",
+            "comment": "Bei der Verpackung könnte mann passende Größe einsetzen.\nAber sonst alles Prima.\nDanke nochmals.",
+            "confirmationDate": "2020-07-06T22:55:24+02:00",
+            "creationDate": "2020-07-06T22:55:24+02:00",
+            "criteria": [
+              {
+                "mark": "4",
+                "markDescription": "GOOD",
+                "type": "DELIVERY"
+              },
+              {
+                "mark": "4",
+                "markDescription": "GOOD",
+                "type": "GOODS"
+              },
+              {
+                "mark": "4",
+                "markDescription": "GOOD",
+                "type": "SERVICE"
+              }
+            ],
+            "mark": "4.00",
+            "markDescription": "GOOD",
+            "UID": "1eef6238af014082ba909c623d5e9094",
+            "orderDate": "2020-06-29T09:58:57+02:00"
+          }
+        ]
+      }
+    },
+    "message": "SUCCESS",
+    "responseInfo": {
+      "apiVersion": "2.4.18",
+      "count": 20,
+      "parameters": [
+        {
+          "name": "page",
+          "value": "0"
+        },
+        {
+          "name": "size",
+          "value": "20"
+        },
+        {
+          "name": "startDate",
+          "value": "2019-07-14"
+        },
+        {
+          "name": "endDate",
+          "value": "2020-07-13"
+        }
+      ]
+    },
+    "status": "SUCCESS"
+  }
+}

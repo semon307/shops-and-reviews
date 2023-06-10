@@ -1,0 +1,690 @@
+{
+  "metaData": {
+    "totalShopCount": 1069,
+    "totalPageCount": 54
+  },
+  "shops": [
+    {
+      "tsID": "XCD7B06A865895BD55F9B86C6BE099CC7",
+      "shopName": "Hemden-Meister.de",
+      "shopUrl": "www.hemden-meister.de",
+      "reviewCount": 39599,
+      "shopDescription": "Hemden Meister - schnell und einfach zum richtigen Hemd und das mit perfektem Service wie kostenlose Seidenkrawatte zu jedem Hemd, automatische Versand- und Mengenrabatte, pers\u00f6nlicher Monogrammservice, perfekter \u00c4nderungsservice und das nat\u00fcrlich bei portofreier Lieferung. Unsere Marken: Eterna, Olymp, Seidensticker, Tommy Hilfiger, Luis Trenker, Venti, Casamoda, Hatico, Pure, Schwarze Rose und viele mehr...",
+      "averageRating": 4.88,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/Hemden-Meister-de_1337.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_XCD7B06A865895BD55F9B86C6BE099CC7.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Schuhe",
+          "id": 49,
+          "urlPath": "schuhe",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "X1D5C64C8CEB9FFCB2A663B6D198614EE",
+      "shopName": "HemdenBox.de",
+      "shopUrl": "www.hemdenbox.de",
+      "reviewCount": 2790,
+      "shopDescription": "HemdenBox.de offeriert hochwertige Hemden und Accessoires von f\u00fchrenden Marken, die Sie auf Wunsch auch mit einer individuellen Bestickung erhalten k\u00f6nnen.\nBeliebte Marken sind: Olymp, Eterna, Seidensticker, Marvelis, Casa Moda, Venti und Strellson",
+      "averageRating": 4.88,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/HemdenBox-de_2039.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_X1D5C64C8CEB9FFCB2A663B6D198614EE.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Schmuck & Uhren",
+          "id": 48,
+          "urlPath": "schmuck_uhren",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "XF66DD9A3421D6CB2B8B4D230493C1979",
+      "shopName": "www.germens.shop - Onlineshop f\u00fcr au\u00dfergew\u00f6hnliche Hemden, Blusen & Seident\u00fccher",
+      "shopUrl": "germens.shop",
+      "reviewCount": 157,
+      "shopDescription": "GERMENS entwirft und produziert au\u00dfergew\u00f6hnliche Hemden, Blusen und Seident\u00fccher. K\u00fcnstler entwerfen die sch\u00f6nen Designs, die unsere Kleidungsst\u00fccke zu einem Eyecatcher machen. GERMENS Hemden und Blusen sind einzigartig und f\u00fcr Menschen, die ebenso einzigartig sind.",
+      "averageRating": 4.7,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/www-germens-shop-Onlineshop-fuer-aussergewoehnliche-Hemden-Blusen-Seidentuecher_64515.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_XF66DD9A3421D6CB2B8B4D230493C1979.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "X9C52913758ED4812554B4724F696FC03",
+      "shopName": "Businessbekleidung von Petermann: Hemden, Blusen, Polos Anz\u00fcge",
+      "shopUrl": "www.hemdenfabrik.de/shop",
+      "reviewCount": 33,
+      "shopDescription": "In diesem Shop finden Sie hochwertige Business-Bekleidung zum kleinen Preis, denn wir sind Hersteller und kein H\u00e4ndler. Wir bieten Anz\u00fcge im Baukastensystem, b\u00fcgelfreie Business Hemden und Blusen, Bioactive Poloshirts und Sartex Bekleidung.",
+      "averageRating": 4.86,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/Businessbekleidung-von-Petermann-Hemden-Blusen-Polos-Anzuege_46567.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_X9C52913758ED4812554B4724F696FC03.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "B\u00fcro, Schule & Beruf",
+          "id": 26,
+          "urlPath": "buro_schule_beruf",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "XB3830A0EF5C102676CD796FB49E2EF73",
+      "shopName": "bolf.de",
+      "shopUrl": "www.bolf.de",
+      "reviewCount": 1088,
+      "shopDescription": "Wir sind ein Onlineshop, der seit 2011 auf dem Markt t\u00e4tig ist. In unserem Angebot finden Sie Herrenbekleidung, Damenbekleidung, Ski- & Snowboardbekleidung, Hemden, Jacken, M\u00e4ntel und Sweatshirts. Wir bieten die neuesten Trends f\u00fcr einen fairen Preis, beste Sonderangebote und immer frische Informationen zu neuen Produkten an.",
+      "averageRating": 5.0,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/bolf-de_41781.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_XB3830A0EF5C102676CD796FB49E2EF73.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "XA60E1F64C7980E826C0FDB090D60CC2F",
+      "shopName": "MASKADOR.com",
+      "shopUrl": "maskador.com",
+      "reviewCount": 1689,
+      "shopDescription": "Bei MASKADOR deinem Herren Unterw\u00e4sche Marken-Shop f\u00fcr Normal- und \u00dcbergr\u00f6\u00dfen findest du immer die gesamte Kollektionen an Markenw\u00e4schevon: CECEBA, G\u00d6TZBURG, TOM TAILOR, BALDESSARINI, HOMEBOY und BUGATTI! \n\nFinde ganz leicht deine neue Lieblingsw\u00e4sche! Bei uns findest du Unterw\u00e4sche f\u00fcr Herren die es bequem m\u00f6gen und dabei sportlich, l\u00e4ssig, trendorientiert und vor allem qualit\u00e4tsbewusst sind. \n\nWir f\u00fchren alle Arten von Herren Unterw\u00e4sche \n- Unterhosen: (Slips, Pants, Boxershorts,lange Unterhosen, Unterhemden und Shirts) \n- Schlafanz\u00fcge (Pyjamas, Shorty, Nachthemden, Schlafshirts und Schlafhosen)\n- Hausanz\u00fcge (Trainingsanz\u00fcge und Jumpsuits.\n- Bademode (Badehosen und Badem\u00e4ntel)\n\nWir bieten bestm\u00f6glichen Service, Potzblitz Versand und sind bei Fragen via Telefon, E-Mail, Livechat und WhatsApp f\u00fcr dich da!\n\nDas gesamte MASKADOR-Team freut sich auf deinen Besuch.",
+      "averageRating": 4.87,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/MASKADOR-com_37401.png",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_XA60E1F64C7980E826C0FDB090D60CC2F.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Sportartikel",
+          "id": 51,
+          "urlPath": "sportartikel",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "X0B326CC5AD03D87A086552CE93149D31",
+      "shopName": "osters-rueckenshop.de",
+      "shopUrl": "www.osters-rueckenshop.de",
+      "reviewCount": 1256,
+      "shopDescription": "Osters-R\u00fcckenshop ist ein Spezialversand bei R\u00fcckenproblemen. Hier erhalten Sie eine gro\u00dfe Auswahl an Korsetthemden in unterschiedlichen Farben und Schnitten f\u00fcr Tr\u00e4ger von Kyphose- oder Skoliose-Korsetts. Zus\u00e4tzlich gibt es ein umfangreiches Sortiment an R\u00fcckenbandagen, R\u00fcckenorthesen und Geradehalter gegen die verschiedenen Schmerzbereiche, Krankheiten und Haltungsprobleme im R\u00fccken.",
+      "averageRating": 4.87,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/osters-rueckenshop-de_17654.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_X0B326CC5AD03D87A086552CE93149D31.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "B\u00fcro, Schule & Beruf",
+          "id": 26,
+          "urlPath": "buro_schule_beruf",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Drogerieartikel & Kosmetik",
+          "id": 28,
+          "urlPath": "drogerieartikel_kosmetik",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Koffer, Taschen & Lederwaren",
+          "id": 39,
+          "urlPath": "koffer_taschen_lederwaren",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "XABC3FC36394FBB5858A66F2029BF8955",
+      "shopName": "casamoda.com",
+      "shopUrl": "www.casamoda.com",
+      "reviewCount": 16532,
+      "shopDescription": "Die CASAMODA Heinrich Katt GmbH & Co. KG ist ein international t\u00e4tiges Unternehmen rund um Mode und Lifestyle f\u00fcr M\u00e4nner. Von Markenkleidung bis Accessoires umfasst das Angebot eine gro\u00dfe Auswahl an Businesslooks und Modetrends, von sportlich bis casual.\n\nCASAMODA steht f\u00fcr Jacken, Anz\u00fcge, Krawatten, Hemden, vom Freizeithemd bis zum Businesshemd und vieles mehr. Ob b\u00fcgelfrei, tailliert, klassisch, mit Kentkragen oder Button Down Kragen versehen, extra lang oder kurz, mit Paisley Muster, gestreift, kariert oder uni, aus Seide oder Baumwolle \u2013 der CASAMODA Online Shop bietet f\u00fcr jeden Anlass den perfekten Look und alles, was das M\u00e4nnerherz begehrt!",
+      "averageRating": 4.85,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/casamoda-com_21559.png",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_XABC3FC36394FBB5858A66F2029BF8955.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "X41DA9440F485F3D4C4D5773746FAC9AD",
+      "shopName": "trachten.de",
+      "shopUrl": "www.trachten.de",
+      "reviewCount": 1072,
+      "shopDescription": "Trachten-Einkaufserlebnis an 365 Tagen im Jahr.\n\nGehen Sie auf Entdeckungsreise  auf trachten.de und lassen Sie sich von der Vielfalt an Dirndl und Trachtenmode f\u00fcr die ganze Familie verzaubern. MOSER Trachten als gr\u00f6\u00dfter bayerischer Trachtenausstatter bietet Ihnen \u00fcber 1.000 sofort lieferbare Dirndl- & Lederhosen-Modelle sowie viele weitere Trachtenmode-Artikel wie Dirndlblusen, Trachtenwesten,  Janker, Walkjacken etc. \n\nWir bieten Ihnen Exklusivit\u00e4t durch unsere Eigenmarken Edelheiss, MOSER \u00ae und Herzgl\u00fcck. Die gro\u00dfe Auswahl an Dirndl und Trachtenmode wird von Artikeln bekannter Hersteller wie Hammerschmid, Wenger, Spieth & Wensky, Kr\u00fcger\u00ae Dirndl und Designer wie Astrid S\u00f6ll, Lola Paltinger, Alpenherz und ENA Trachten abgerundet.\n\nBei uns kann Jeder sein Lieblingsgwand finden \u2013 sei es das Brautpaar f\u00fcr den einen besonderen Tag, oder die Familie f\u00fcr eine Feierlichkeit oder jeder einzelne von Ihnen f\u00fcr ein kommendes Volksfest oder f\u00fcr den allt\u00e4glichen Einsatz im Beruf und/oder in der Freizeit. Die gro\u00dfe Vielfalt an Dirndl, Lederhosen, Trachtenhemden, Trachtenblusen oder allgemein an Trachtenmode auf trachten.de oder in unseren Filialen und Trachtenwelten wird Sie begeistern.\n",
+      "averageRating": 4.83,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/trachten-de_18397.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_X41DA9440F485F3D4C4D5773746FAC9AD.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Koffer, Taschen & Lederwaren",
+          "id": 39,
+          "urlPath": "koffer_taschen_lederwaren",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Schuhe",
+          "id": 49,
+          "urlPath": "schuhe",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "XA52F95AC310E58653B688AE030CA4E9A",
+      "shopName": "CARL TORSBERG\u00ae Onlineshop",
+      "shopUrl": "www.carltorsberg.com",
+      "reviewCount": 2173,
+      "shopDescription": "CARL TORSBERG\u00ae wurde entworfen in der wundersch\u00f6nen Schweiz und bietet ein weites Sortiment an Hemden, T-Shirts, Poloshirts, Kapuzenjacken, Jacken und dergleichen in verschiedenen Ausf\u00fchrungen zur Auswahl. Wir sind inspiriert durch die reiche Kultur Skandinaviens und dem belebenden Paradies der Karibischen Inseln. Unsere Modelle sind die perfekte L\u00f6sung f\u00fcr deinen aktiven Lebensstil.",
+      "averageRating": 4.73,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/CARL-TORSBERG-Onlineshop_37003.png",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_XA52F95AC310E58653B688AE030CA4E9A.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "X5E5630EBF277BF8ECD468D0345A7C060",
+      "shopName": "trachtenshop.de",
+      "shopUrl": "trachtenshop.de",
+      "reviewCount": 3708,
+      "shopDescription": "Trachtenmode online kaufen im WIRKES Dirndl & Tracht Onlineshop \nDamen Trachten: Hochwertige Dirndlmode in Mini, Midi und Maxi L\u00e4nge, Dirndlblusen und exklusive Designer Dirndl von WIRKES\n\nWas urspr\u00fcnglich ein Gewand f\u00fcr die Dienstmagd war, hat sich zu einem trendigen, modischen Trachtenst\u00fcck gemausert. \nDas traditionelle Dirndl setzt sich zusammen aus Dirndlkleid, Dirndlbluse und Sch\u00fcrze. Einmal angezogen, m\u00f6chte Frau es am liebsten nicht mehr missen. Es formt und unterstreicht die weibliche Figur in jeder Gr\u00f6\u00dfe wirkungsvoll, und pr\u00e4sentiert die Dame im besten Licht.\n\nNicht nur auf dem Oktoberfest hat sich die Dirndltracht zum absoluten 'Must-have' gemausert, ob im Biergarten, Familienfest, auf der Trachtenhochzeit oder im Alltag, Dirndlmode kann sich \u00fcberall sehen lassen.\n\nDie Auswahl an Dirndln, ist gro\u00df, ob Lang, Midi, Mini oder Hochzeitsdirndl f\u00fcr jeden Geschmack ist etwas dabei. Eine Bluse f\u00fcrs Dirndl in wei\u00df, creme oder schwarz unterstreichen das Dekollet\u00e9e und geh\u00f6ren unbedingt dazu. Die richtige Bluse unterst\u00fctzt die Wirkung des Dirndls, rahmt es ein und hebt es hervor.\n\nNeben den klassischen Dirndln bietet die Damen-Trachtenmode auch weitere Elemente wie Trachtenblusen, Lederhosen f\u00fcr Damen in kurz oder lang und zahlreiche Accessoires, die passend zur Tracht gew\u00e4hlt werden sollten.\n\nHerren Trachten: Lederhosen in kurz oder lang, Kniebundhosen, Trachtenhemden, Westen und Janker von WIRKES",
+      "averageRating": 4.66,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/trachtenshop-de_30485.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_X5E5630EBF277BF8ECD468D0345A7C060.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Schuhe",
+          "id": 49,
+          "urlPath": "schuhe",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "X7D73546B233DB25BE989A82FA8290EAF",
+      "shopName": "pfundskerl-xxl.de",
+      "shopUrl": "www.pfundskerl-xxl.de",
+      "reviewCount": 1301,
+      "shopDescription": "Pfundskerl ist der \u00dcbergr\u00f6\u00dfen-Shop f\u00fcr Herren. Hier gibt es Jacken, Westen, Hemden, Hosen und Jeans und Freizeithemden in \u00dcbergr\u00f6\u00dfen.",
+      "averageRating": 4.86,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/pfundskerl-xxl-de_3146.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_X7D73546B233DB25BE989A82FA8290EAF.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Schuhe",
+          "id": 49,
+          "urlPath": "schuhe",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Sportartikel",
+          "id": 51,
+          "urlPath": "sportartikel",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "XBB01C18390B953BC29DE64C12946BFEC",
+      "shopName": "www.cecil.de ",
+      "shopUrl": "www.cecil.de",
+      "reviewCount": 54527,
+      "shopDescription": "Bei cecil.de gibt es Damen und Herren-Kollektionen, die alles bieten, was man sich w\u00fcnschen kann. F\u00fcr den Mann gibt es Hemden, T-Shirts, Jeans und Hosen und f\u00fcr Frauen eine noch gr\u00f6\u00dfere Auswahl. Alle Stile, vom Kleid, bis zur Bluse mit Rock, gibt es hier im Angebot.",
+      "averageRating": 4.84,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/www-cecil-de_4967.gif",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_XBB01C18390B953BC29DE64C12946BFEC.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "XA307AD5194BD2FF1564C4ECA78AE9086",
+      "shopName": "Modehaus Siemers",
+      "shopUrl": "www.modehaus-siemers.de",
+      "reviewCount": 11650,
+      "shopDescription": "Im Internet Modehaus Siemers finden Sie eine gro\u00dfe Auswahl an Strumpfhosen, Str\u00fcmpfen und Socken, Oberhemden und T-Shirts, Matratzen, Lattenrosten und Bettwaren f\u00fcr Erwachsene und Kinder, Unterw\u00e4sche f\u00fcr Damen und Herren, Handt\u00fcchern, Duschhandt\u00fcchern, G\u00e4stehandt\u00fcchern, Seiflappen und vieles mehr.",
+      "averageRating": 4.82,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/Modehaus-Siemers_3572.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_XA307AD5194BD2FF1564C4ECA78AE9086.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "XC9EFFFF96787BBD6ACC45484957D4B1E",
+      "shopName": "trachtenoutlet24.de",
+      "shopUrl": "www.trachtenoutlet24.de",
+      "reviewCount": 1927,
+      "shopDescription": "Bei diesem Online-Shop finden Sie Trachtenmode f\u00fcr die ganze Familie, egal ob Sie Dirndl, Lederhose, Kinderdirndl, Trachtenhemden oder Landhausblusen suchen. Das Angebot umfasst hochwertige Trachten von namhaften Herstellern zu erschwinglichen Preisen.",
+      "averageRating": 4.82,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/trachtenoutlet24-de_5486.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_XC9EFFFF96787BBD6ACC45484957D4B1E.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "X28287793B3A4DC916C66005472543571",
+      "shopName": "Clubfashion24.de",
+      "shopUrl": "www.clubfashion24.de",
+      "reviewCount": 2079,
+      "shopDescription": "ClubFashion24 ist Ihr Online-Shop f\u00fcr Clubwear und Streetwear Mode. Hier finden Sie Herrenmode, T-Shirts, Jeans und Hemden - f\u00fcr abgefahrene Styles.",
+      "averageRating": 4.79,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/Clubfashion24-de_51622.png",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_X28287793B3A4DC916C66005472543571.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Schmuck & Uhren",
+          "id": 48,
+          "urlPath": "schmuck_uhren",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Schuhe",
+          "id": 49,
+          "urlPath": "schuhe",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "XC6088017F5DB08D99B7422CF23158FF3",
+      "shopName": "calida.com",
+      "shopUrl": "www.calida.com",
+      "reviewCount": 11071,
+      "shopDescription": "Calida bietet Nachtw\u00e4sche und Tagw\u00e4sche f\u00fcr die ganze Familie. Zum Beispiel finden Sie hier BHs, Bustiers, Shirts, Bodies, H\u00f6schen, Nachthemden, Pyjamas und Loungewear.",
+      "averageRating": 4.78,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/calida-com_3801.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_XC6088017F5DB08D99B7422CF23158FF3.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Spielwaren, Baby & Kind",
+          "id": 50,
+          "urlPath": "spielwaren_baby_kind",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "X697202060D723C6E1629390B0B2F665B",
+      "shopName": "Jeans-Meile.de",
+      "shopUrl": "www.jeans-meile.de",
+      "reviewCount": 1116,
+      "shopDescription": "Bei jeans-meile.de erhalten Sie eine gro\u00dfe Auswahl an Jeanshosen namhafter Marken sowie passender G\u00fcrtel. Dar\u00fcber hinaus umfasst das Angebot Jeansjacken, T-shirts und Hemden. Jeans bekommen sind zudem auch in \u00dcberl\u00e4ngen erh\u00e4ltlich.",
+      "averageRating": 4.48,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/Jeans-Meile-de_22295.png",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_X697202060D723C6E1629390B0B2F665B.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        },
+        {
+          "name": "Koffer, Taschen & Lederwaren",
+          "id": 39,
+          "urlPath": "koffer_taschen_lederwaren",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "X7A59E9A8F7AABFC243E4698B9F8887EE",
+      "shopName": "cg.fashion",
+      "shopUrl": "cg.fashion",
+      "reviewCount": 560,
+      "shopDescription": "Gemeinsam. Authentisch. Cool.\nSo lautet der Dresscode der progressiven, urbanen Looks von CG-Club of Gents. Smartness im Zusammenspiel mit einem Tick Coolness, Authentizit\u00e4t und Leidenschaft sowie ein ausgewogener Mix aus Trends und gegenw\u00e4rtigem Zeitgeist bestimmen hier die Fashion-DNA. Menswear nah am jungen m\u00e4nnlichen Markt, mit der Betonung auf m\u00e4nnlich. Modethemen und Outfits sind f\u00fcr die anvisierte urbane Zielgruppe nachvollziehbar, nie \u00fcberzogen. Dabei kann der Stil ganz unterschiedlich sein. Mal formal, mal l\u00e4ssig, mal leger, mal sportiv. Die Silhouette immer betont auf Figur geschnitten und modisch orientiert.\nQualit\u00e4ten und Dessins, Finishings und Farben immer am Puls der Zeit. Typisch f\u00fcr die Handschrift sind aufwendige Detaill\u00f6sungen, mal ganz subtil eingearbeitet, mal prominent ausgearbeitet, mal mit mehr oder mit weniger Funktion.\nDie Kernkompetenz: junge Sakkos, Anz\u00fcge, M\u00e4ntel & Jacken. Die K\u00fcr: modische Hemden, Polos, Shirts, Knitwear, Chinos, Denims sowie Accessoires \u2013 alles auf Totallook ausgerichtet",
+      "averageRating": 4.94,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/cg-fashion_32699.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_X7A59E9A8F7AABFC243E4698B9F8887EE.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    },
+    {
+      "tsID": "X45CF6DEBE1CD5D4BA4A1A57BE121185E",
+      "shopName": "BASIC.de - Mode und Schuhe Online bestellen",
+      "shopUrl": "www.basic.de",
+      "reviewCount": 386,
+      "shopDescription": "Wir \u00fcber uns\nBASIC.de - Mode und Schuhe Online bestellen\n\nSie sind auf der Suche nach den neuesten modischen Trends und m\u00f6chten von einem attraktiven Preis-Leistungsverh\u00e4ltnis profitieren? Dann werfen Sie einen Blick auf das umfassende Angebot, welches der BASIC Online-Shop f\u00fcr Sie bereith\u00e4lt. Wir sind Ihr kompetenter und zuverl\u00e4ssiger Ansprechpartner im Internet, wenn es um modische Kleidungsst\u00fccke oder Schuhe geht und halten sowohl f\u00fcr Damen als auch f\u00fcr Herren ein weitreichendes Produktsortiment bereit. Ob Jeans, Pullo ver, Blusen, Hemden, Westen oder Jacken, ob Stiefel, Pumps, Ballerinas, Sneaker, Sandalen oder Halbschuhe: Freuen Sie sich auf eine Produktvielfalt, die keinen Kundenwunsch unber\u00fccksichtigt l\u00e4sst und finden Sie bei BASIC aktuelle Mode zu g\u00fcnstigsten Preisen. \u00dcberzeugen Sie sich von unseren Leistungen und bestellen Sie Fashion-Trends bequem und einfach \u00fcber das Internet - bei BASIC, Ihrem Mode-Online-Shop.\nBASIC.de - Boyfriend Hosen und Jeans - Ein Produktsortiment, das zu \u00fcberzeugen wei\u00df\n\nSo unterschiedlich wie die Geschm\u00e4cker und Anspr\u00fcche unserer Kunden sind auch die von uns angebotenen Kleidungsst\u00fccke, Schuhe und Accessoires. So \u00fcberzeugt der BASIC Online-Shop mit einem Produktsortiment, welches f\u00fcr jeden Kundenwunsch garantiert eine passende L\u00f6sung bereith\u00e4lt. Lassen Sie sich vom Angebot begeistern und tauchen Sie ein in die Welt der Mode. Mehr als 5.000 Produkte, die wir ab Lager f\u00fcr Sie bereithalten, lassen Frauen und M\u00e4nner gleicherma\u00dfen auf ihre Kos",
+      "averageRating": 4.94,
+      "shopLogoUrl": "https://shoplogos.trustedshops.de/BASIC-de-Mode-und-Schuhe-Online-bestellen_42505.jpeg",
+      "profileUrl": "https://www.trustedshops.de/bewertung/info_X45CF6DEBE1CD5D4BA4A1A57BE121185E.html",
+      "shopCategories": [
+        {
+          "name": "Bekleidung",
+          "id": 23,
+          "urlPath": "bekleidung",
+          "categoryLanguage": "de-DE"
+        }
+      ],
+      "certificationState": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 23,
+      "name": "Bekleidung",
+      "urlPath": "/bekleidung/",
+      "totalCount": 720
+    },
+    {
+      "id": 49,
+      "name": "Schuhe",
+      "urlPath": "/schuhe/",
+      "totalCount": 255
+    },
+    {
+      "id": 51,
+      "name": "Sportartikel",
+      "urlPath": "/sportartikel/",
+      "totalCount": 219
+    },
+    {
+      "id": 37,
+      "name": "Hobby, Sammeln & Freizeitartikel",
+      "urlPath": "/hobby_sammeln_freizeitartikel/",
+      "totalCount": 156
+    },
+    {
+      "id": 39,
+      "name": "Koffer, Taschen & Lederwaren",
+      "urlPath": "/koffer_taschen_lederwaren/",
+      "totalCount": 137
+    },
+    {
+      "id": 35,
+      "name": "Geschenke",
+      "urlPath": "/geschenke/",
+      "totalCount": 86
+    },
+    {
+      "id": 48,
+      "name": "Schmuck & Uhren",
+      "urlPath": "/schmuck_uhren/",
+      "totalCount": 78
+    },
+    {
+      "id": 36,
+      "name": "Haushaltswaren & Haushaltsger\u00e4te",
+      "urlPath": "/haushaltswaren_haushaltsgerate/",
+      "totalCount": 72
+    },
+    {
+      "id": 42,
+      "name": "M\u00f6bel & Dekorationsartikel",
+      "urlPath": "/mobel_dekorationsartikel/",
+      "totalCount": 63
+    },
+    {
+      "id": 50,
+      "name": "Spielwaren, Baby & Kind",
+      "urlPath": "/spielwaren_baby_kind/",
+      "totalCount": 54
+    },
+    {
+      "id": 26,
+      "name": "B\u00fcro, Schule & Beruf",
+      "urlPath": "/buro_schule_beruf/",
+      "totalCount": 51
+    },
+    {
+      "id": 21,
+      "name": "Auto, Motorrad & Zubeh\u00f6r",
+      "urlPath": "/auto_motorrad_zubehor/",
+      "totalCount": 39
+    },
+    {
+      "id": 28,
+      "name": "Drogerieartikel & Kosmetik",
+      "urlPath": "/drogerieartikel_kosmetik/",
+      "totalCount": 32
+    },
+    {
+      "id": 34,
+      "name": "Gartenbedarf",
+      "urlPath": "/gartenbedarf/",
+      "totalCount": 30
+    },
+    {
+      "id": 38,
+      "name": "Karneval & Kost\u00fcme",
+      "urlPath": "/karneval_kostume/",
+      "totalCount": 24
+    },
+    {
+      "id": 52,
+      "name": "Tierbedarf",
+      "urlPath": "/tierbedarf/",
+      "totalCount": 25
+    },
+    {
+      "id": 33,
+      "name": "Foto, Druck & Book-on-Demand",
+      "urlPath": "/foto_druck_book_on_demand/",
+      "totalCount": 30
+    },
+    {
+      "id": 22,
+      "name": "Baumarkt",
+      "urlPath": "/baumarkt/",
+      "totalCount": 20
+    },
+    {
+      "id": 27,
+      "name": "Computer, Unterhaltungselektronik & Zubeh\u00f6r",
+      "urlPath": "/computer_unterhaltungselektronik_zubehor/",
+      "totalCount": 20
+    },
+    {
+      "id": 40,
+      "name": "Lebensmittel",
+      "urlPath": "/lebensmittel/",
+      "totalCount": 15
+    },
+    {
+      "id": 31,
+      "name": "Erotik",
+      "urlPath": "/erotik/",
+      "totalCount": 13
+    },
+    {
+      "id": 25,
+      "name": "B\u00fccher",
+      "urlPath": "/bucher/",
+      "totalCount": 9
+    },
+    {
+      "id": 54,
+      "name": "Genussmittel",
+      "urlPath": "/genussmittel/",
+      "totalCount": 7
+    },
+    {
+      "id": 44,
+      "name": "Musik & Film",
+      "urlPath": "/musik_film/",
+      "totalCount": 5
+    },
+    {
+      "id": 41,
+      "name": "Medikamente",
+      "urlPath": "/medikamente/",
+      "totalCount": 5
+    },
+    {
+      "id": 43,
+      "name": "Telekommunikation",
+      "urlPath": "/telekommunikation/",
+      "totalCount": 3
+    },
+    {
+      "id": 45,
+      "name": "Optiker",
+      "urlPath": "/optiker/",
+      "totalCount": 3
+    },
+    {
+      "id": 30,
+      "name": "Energie",
+      "urlPath": "/energie/",
+      "totalCount": 2
+    },
+    {
+      "id": 47,
+      "name": "Tickets",
+      "urlPath": "/tickets/",
+      "totalCount": 2
+    },
+    {
+      "id": 53,
+      "name": "Consulting",
+      "urlPath": "/consulting/",
+      "totalCount": 2
+    },
+    {
+      "id": 24,
+      "name": "Floristik",
+      "urlPath": "/floristik/",
+      "totalCount": 1
+    },
+    {
+      "id": 29,
+      "name": "Edelmetalle",
+      "urlPath": "/edelmetalle/",
+      "totalCount": 1
+    },
+    {
+      "id": 32,
+      "name": "Finanzen & Versicherungen",
+      "urlPath": "/finanzen_versicherungen/",
+      "totalCount": 1
+    },
+    {
+      "id": 46,
+      "name": "Reisen & Hotels",
+      "urlPath": "/reisen_hotels/",
+      "totalCount": 3
+    }
+  ]
+}
